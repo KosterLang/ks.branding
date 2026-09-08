@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g>
+        <path d="M4.947,27.106C4.844,27.313 4.611,27.422 4.385,27.369C4.159,27.315 4,27.114 4,26.882C4,21.568 4,7.823 4,4C4,3.448 4.448,3 5,3C6.537,3 9.463,3 11,3C11.552,3 12,3.448 12,4C12,6.533 12,13 12,13C12,13 7.065,22.869 4.947,27.106Z" style="fill:white;"/>
+        <clipPath id="_clip1">
+            <path d="M4.947,27.106C4.844,27.313 4.611,27.422 4.385,27.369C4.159,27.315 4,27.114 4,26.882C4,21.568 4,7.823 4,4C4,3.448 4.448,3 5,3C6.537,3 9.463,3 11,3C11.552,3 12,3.448 12,4C12,6.533 12,13 12,13C12,13 7.065,22.869 4.947,27.106Z"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <g id="COLOR" transform="matrix(0.221505,0.221505,-0.328117,0.328117,8.894303,1.172721)">
+                <rect x="-7" y="-2" width="36" height="36" style="fill:url(#_Linear2);"/>
+            </g>
+        </g>
+        <path d="M10,22C10,22 15.026,27.026 16.561,28.561C16.842,28.842 17.223,29 17.621,29C19.664,29 26.191,29 28.853,29C29.052,29 29.232,28.882 29.312,28.7C29.391,28.518 29.355,28.305 29.22,28.16C26.414,25.138 17,15 17,15L10,22Z" style="fill:white;"/>
+        <clipPath id="_clip3">
+            <path d="M10,22C10,22 15.026,27.026 16.561,28.561C16.842,28.842 17.223,29 17.621,29C19.664,29 26.191,29 28.853,29C29.052,29 29.232,28.882 29.312,28.7C29.391,28.518 29.355,28.305 29.22,28.16C26.414,25.138 17,15 17,15L10,22Z"/>
+        </clipPath>
+        <g clip-path="url(#_clip3)">
+            <g id="COLOR1" serif:id="COLOR" transform="matrix(0.67855,0.734555,-0.819311,0.756844,31.365449,-5.374117)">
+                <rect x="6" y="16" width="30" height="26" style="fill:url(#_Linear4);"/>
+            </g>
+        </g>
+        <path d="M4,18C4,18 17.011,5.802 19.567,3.406C19.845,3.145 20.212,3 20.593,3C22.062,3 25.936,3 28.52,3C28.928,3 29.295,3.248 29.447,3.626C29.6,4.004 29.507,4.437 29.214,4.72C23.948,9.791 8.62,24.551 4.847,28.185C4.702,28.324 4.489,28.363 4.304,28.284C4.12,28.206 4,28.025 4,27.824C4,24.988 4,18 4,18Z" style="fill:white;"/>
+        <clipPath id="_clip5">
+            <path d="M4,18C4,18 17.011,5.802 19.567,3.406C19.845,3.145 20.212,3 20.593,3C22.062,3 25.936,3 28.52,3C28.928,3 29.295,3.248 29.447,3.626C29.6,4.004 29.507,4.437 29.214,4.72C23.948,9.791 8.62,24.551 4.847,28.185C4.702,28.324 4.489,28.363 4.304,28.284C4.12,28.206 4,28.025 4,27.824C4,24.988 4,18 4,18Z"/>
+        </clipPath>
+        <g clip-path="url(#_clip5)">
+            <g id="COLOR2" serif:id="COLOR" transform="matrix(-0.626412,0.779492,-0.779492,-0.626412,40.651949,14.100589)">
+                <rect x="-2" y="-1" width="37" height="37" style="fill:url(#_Linear6);"/>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(36,0,0,36,-7,16)"><stop offset="0" style="stop-color:rgb(99,125,253);stop-opacity:1"/><stop offset="0.64" style="stop-color:rgb(98,119,251);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(91,83,243);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear4" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(30,0,0,26,6,29)"><stop offset="0" style="stop-color:rgb(74,65,205);stop-opacity:1"/><stop offset="0.08" style="stop-color:rgb(87,104,228);stop-opacity:1"/><stop offset="0.17" style="stop-color:rgb(97,135,246);stop-opacity:1"/><stop offset="0.5" style="stop-color:rgb(100,146,252);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(98,150,250);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear6" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(37,0,0,37,-2,17.5)"><stop offset="0" style="stop-color:rgb(219,123,250);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(144,114,247);stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>
